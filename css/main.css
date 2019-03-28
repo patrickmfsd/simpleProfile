@@ -45,10 +45,6 @@ h1 {
 	text-decoration: italic;
 }
 
-#skill-list ul {
-	list-style-type: none;
-}
-
 #profile-social-icons .fab, .fa {
 	/* !important Overrides existing internal or external CSS */
 	font-size: 26px !important; 
