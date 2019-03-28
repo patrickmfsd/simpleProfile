@@ -25,10 +25,10 @@ html {
 body {
     font-family:  -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”, “Fira Sans”, “Droid Sans”, “Helvetica Neue”, sans-serif;
     text-align: center; /* alternatively left, right or justify*/
-    margin: 0 15% 15px 15%;
+    margin: 5% 15%;
     background-color: white;
     border-radius: 15px;
-    padding: 0 20px 0 20px;
+    padding: 5px 20px;
 }
 
 h1 {
@@ -41,6 +41,15 @@ h1 {
 
 #tagline {
 	text-decoration: italic;
+}
+
+ul, li {
+	list-style-type: none;
+}
+
+li {
+	padding-left: 2em; 
+	text-indent: -2em;
 }
 
 #profile-social-icons .fab, .fa {
