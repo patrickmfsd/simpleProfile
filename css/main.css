@@ -24,3 +24,20 @@ body {
     font-family:  -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”, “Fira Sans”, “Droid Sans”, “Helvetica Neue”, sans-serif;
     text-align: center;
 }
+
+/* === PROFILE === */
+#profile-name {
+	color: #0e8b58;
+}
+
+#profile-img {
+	
+}
+
+#tagline {
+
+}
+
+#profile-social-icons {
+	font-size: 21px;
+}
