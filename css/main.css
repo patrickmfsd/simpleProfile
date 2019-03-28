@@ -45,8 +45,8 @@ h1 {
 	text-decoration: italic;
 }
 
-#skills ul {
-	list-style: none;
+#skill-list ul {
+	list-style-type: none;
 }
 
 #profile-social-icons .fab, .fa {
