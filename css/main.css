@@ -38,7 +38,10 @@ body {
 
 }
 
-#profile-social-icons fab fa {
-	font-size: 21px;
+.fab, .fa {
+	 font-size: 21px;
+}
+
+#profile-social-icons{
 	
 }
