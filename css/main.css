@@ -29,8 +29,8 @@ body {
     margin-right: 15%;
     background-color: white;
     border-radius: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h1 {
@@ -43,6 +43,10 @@ h1 {
 
 #tagline {
 	text-decoration: italic;
+}
+
+#skill {
+	list-style: none;
 }
 
 #profile-social-icons .fab, .fa {
