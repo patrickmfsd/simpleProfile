@@ -27,11 +27,11 @@ body {
 
 /* === PROFILE === */
 #profile-name {
-	color: #0e8b58;
+	text-decoration: underline;
 }
 
 #profile-img {
-	
+	border-radius: 50%; /* This creates a circle image, lower the radius to get a Squircle */
 }
 
 #tagline {
@@ -40,4 +40,5 @@ body {
 
 #profile-social-icons {
 	font-size: 21px;
+	
 }
