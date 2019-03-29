@@ -14,13 +14,13 @@ body {
 }
 
 h1 {
+	color: #003B6F;
 	text-decoration: underline;
 }
 
 #location {
 	color: #373940;
 	font-size: 19px;
-	text-decoration: italic;
 }
 
 #profile-img {
@@ -28,7 +28,7 @@ h1 {
 }
 
 #tagline {
-	text-decoration: italic;
+	color: #373940;
 }
 
 #content {
@@ -38,11 +38,11 @@ h1 {
 #profile-social-icons .fab, .fa {
 	/* !important Overrides existing internal or external CSS */
 	font-size: 26px !important; 
-	color: black;
+	color: #373940;
 	padding-bottom: 15px;
 }
 
 footer {
 	padding: 5px 0;
-	boarder-top: 1px solid #373940;
+	border-top: 1px dotted #373940;
 }
