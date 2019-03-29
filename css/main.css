@@ -1,36 +1,17 @@
 /* This theme was created by @patrickmfsd for the RMIT Programming Club to use in a Web Programming workshop. */
 
-/* === GENERAL === */
-* {
- box-sizing: border-box;
-}
-
-*:before,
-*:after {
- box-sizing: border-box;
-}
-
-html, body {
-	height: 100%;
-    overflow-x: hidden;
-}
-
 html {
-  height: 100%;
-  box-sizing: border-box;
   background-color: lightgrey;
 }
 
-/* === PROFILE === */
 body {
     font-family:  -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”, “Fira Sans”, “Droid Sans”, “Helvetica Neue”, sans-serif;
-    text-align: center; /* alternatively left, right or justify*/
+    text-align: center; /* alternatively you can use left, right or justify */
     margin: 2% 15%;
     background-color: white;
     border-radius: 15px;
     padding: 5px 20px;
 }
-
 
 h1 {
 	text-decoration: underline;
@@ -47,9 +28,15 @@ h1 {
 #content {
 	text-align: left !important;
 }
+
 #profile-social-icons .fab, .fa {
 	/* !important Overrides existing internal or external CSS */
 	font-size: 26px !important; 
 	color: black;
 	padding-bottom: 15px;
+}
+
+footer {
+	padding: 5px 0;
+	boarder-top: 1px dotted grey;
 }
