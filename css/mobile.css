@@ -1,6 +1,10 @@
-/* This theme was created by @patrickmfsd for the RMIT Programming Club to use in a Web Programming workshop. */
-
-/* This is the mobile css for the theme, this uses the @media css query to set specific css rules based off a certain parameter, in this case the max width of the device's display */
+/* 
+ * This theme was created by @patrickmfsd for the RMIT Programming Club to use in a Web Programming workshop. 
+ *
+ * This is the mobile css for the theme, this uses the @media css query to set specific css rules based off a certain parameter, 
+ * in this case the max width of the device's display.
+ *    
+ */
 
 @media only screen and (max-width: 720px) {
     body {
